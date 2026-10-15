@@ -1,0 +1,15 @@
+# 中间产物
+_verify/
+_preview/
+_shoot_tmp/
+_shoot.html
+_measure.html
+_hoyo/
+_secshot/
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
+~$*
